@@ -1,0 +1,22 @@
+{
+    "name": "hello-delay",
+    "version": "0.0.1",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "start": "node server.js"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/tomleah/hello-delay.git"
+    },
+    "author": "Tom Leah",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/tomleah/hello-delay/issues"
+    },
+    "homepage": "https://github.com/tomleah/hello-delay#readme",
+    "dependencies": {
+        "express": "^4.17.1"
+    }
+}
